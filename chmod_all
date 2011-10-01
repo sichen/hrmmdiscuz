@@ -1,0 +1,8 @@
+chmod 777 ./data
+chmod 777 ./data/avatar
+chmod 777 ./data/backup
+chmod 777 ./data/cache
+chmod 777 ./data/logs
+chmod 777 ./data/tmp
+chmod 777 ./data/view
+chmod 777 ./data/config.inc.php
