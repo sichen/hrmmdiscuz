@@ -1,0 +1,9 @@
+probably need to touch these things:
+
+touch   data/diy/
+touch   data/install.lock
+touch   data/sendmail.lock
+touch   uc_server/data/install.lock
+touch   uc_server/data/upgrade.lock
+
+
