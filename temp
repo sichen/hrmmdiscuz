@@ -6,4 +6,3 @@ touch   data/sendmail.lock
 touch   uc_server/data/install.lock
 touch   uc_server/data/upgrade.lock
 
-

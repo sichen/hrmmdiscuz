@@ -1,0 +1,1 @@
+./mysqldump -u root -p  --quick ultrax | gzip > ultrax.gz
