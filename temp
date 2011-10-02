@@ -5,4 +5,4 @@ touch   data/install.lock
 touch   data/sendmail.lock
 touch   uc_server/data/install.lock
 touch   uc_server/data/upgrade.lock
-
+touch   uc_server/data/updatetime.lock

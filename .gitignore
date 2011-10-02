@@ -1,2 +1,4 @@
 data/cache/*
 data/log/*
+uc_server/data/cache/*
+uc_server/data/logs/*
