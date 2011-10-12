@@ -285,10 +285,10 @@ $lang = array(
 	'profile_verify_modify_error' => '{verify}已经认证通过不允许修改',
 	'profile_verify_verifying' => '您的{verify}信息已提交，请耐心等待核查。',
 
-	'district_level_1' => '-省份-',
-	'district_level_2' => '-城市-',
-	'district_level_3' => '-州县-',
-	'district_level_4' => '-乡镇-',
+	'district_level_1' => '-国家-',
+	'district_level_2' => '-省或州-',
+	'district_level_3' => '-城市-',
+	'district_level_4' => '-区或乡镇-',
 	'invite_you_to_visit' => '{user}邀请您访问{bbname}',
 
 	'spacecp_message_prompt' => '(支持 {msg} 代码,最大 1000 字)',
